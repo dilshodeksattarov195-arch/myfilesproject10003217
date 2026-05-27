@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smscarse",
+        "uuid": 20530894,
+        "checksum": "90d97v"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
